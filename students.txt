@@ -1,0 +1,9 @@
+HSA1;Le Tu Boi Hoang;14/ 5/2004;Nam;L10A
+HSA2;Le Huu Quy;20/ 3/2004;Nam;L10A
+HSA3;Hoang Huong Binh;15/ 4/2004;Nu;L10A
+HSA4;Nguyen Ba Xuan An;23/ 8/2003;Nam;L11A
+HSA5;Ho Si Thao;19/ 4/2004;Nam;L11A
+HSA6;Tran Thi Thanh Phuong;20/ 5/2003;Nu;L11A
+HSA7;Le Minh;21/ 5/2004;Nam;L12A
+HSA8;Nguyen Viet Tu;19/ 7/2004;Nam;L12A
+HSA9;Doan Cong Tuan Vu; 4/ 9/2004;Nam;L12A

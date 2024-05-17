@@ -1,0 +1,3 @@
+G01;Tran Muoi;15/4/1983;Nam;L10A
+G02;Le Yen;24/6/1972;Nu;L11A
+G03;Le Thanh;6/1/1981;Nam;L12A
